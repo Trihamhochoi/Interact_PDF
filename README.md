@@ -1,3 +1,4 @@
+***Detail Document by Vietnamese***: [notion link](https://understood-spot-87e.notion.site/T-I-LI-U-M-T-V-H-NG-D-N-4d596d142af04fffa20fb8d692e94d6b)
 # Tool 1: Combine and Split PDF
 ## Description:
 ### Combine PDF:
